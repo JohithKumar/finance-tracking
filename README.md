@@ -1,4 +1,5 @@
-# finance trackre
+# finance tracker
+
 
 This project is a simple personal finance tracker built using Python and SQLAlchemy ORM with a SQLite database.
 
